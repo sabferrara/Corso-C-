@@ -75,7 +75,6 @@ namespace ConsoleApp1
                     Console.WriteLine("Risultato Divisione: "+ divisione);
                     break;
             }
-            
         }
      
             
