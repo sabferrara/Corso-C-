@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIST", "LIST\LIST.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodi", "metodi\metodi.csproj", "{12D5D50A-C97B-4EC8-9DEE-A02E7E47AC7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESERCZIMETODI", "ESERCZIMETODI\ESERCZIMETODI.csproj", "{A4123DCB-6EC2-4536-94C5-EEA1EB9DEF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "incaps", "incaps\incaps.csproj", "{706B7AF9-62C0-4892-AE8A-6480787D7D3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{12D5D50A-C97B-4EC8-9DEE-A02E7E47AC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D5D50A-C97B-4EC8-9DEE-A02E7E47AC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D5D50A-C97B-4EC8-9DEE-A02E7E47AC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4123DCB-6EC2-4536-94C5-EEA1EB9DEF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4123DCB-6EC2-4536-94C5-EEA1EB9DEF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4123DCB-6EC2-4536-94C5-EEA1EB9DEF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4123DCB-6EC2-4536-94C5-EEA1EB9DEF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
