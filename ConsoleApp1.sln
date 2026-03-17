@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESERCZIMETODI", "ESERCZIMET
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "incaps", "incaps\incaps.csproj", "{706B7AF9-62C0-4892-AE8A-6480787D7D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql", "sql\sql.csproj", "{8B1E5A49-D491-4933-90E3-06E329693D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_ESE", "SQL_ESE\SQL_ESE.csproj", "{78C1760D-42A4-4239-947F-F01C48A1160A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{706B7AF9-62C0-4892-AE8A-6480787D7D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1E5A49-D491-4933-90E3-06E329693D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E5A49-D491-4933-90E3-06E329693D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E5A49-D491-4933-90E3-06E329693D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E5A49-D491-4933-90E3-06E329693D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C1760D-42A4-4239-947F-F01C48A1160A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C1760D-42A4-4239-947F-F01C48A1160A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C1760D-42A4-4239-947F-F01C48A1160A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C1760D-42A4-4239-947F-F01C48A1160A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
